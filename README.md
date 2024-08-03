@@ -51,5 +51,6 @@ The maze is represented as a grid of characters in the source code. The player c
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
-Enjoy solving the maze and happy coding!
+---
 
+Enjoy solving the maze and happy coding!
